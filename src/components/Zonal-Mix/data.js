@@ -1480,18 +1480,6 @@ export const rows = [
     },
 ]
 
-
-
-// const valueSetter = (params) => {
-//     const newValue = params.newValue;
-//     const field = params.colDef.field;
-//     const id = params.id;
-//     const data = [...params.api.getDisplayedRowAtIndex(id).data];
-//     data[field] = newValue;
-//     params.api.applyTransaction({ update: [data] });
-//     return true;
-
-// }
 export const columns = [
     {
         field: 'type',
