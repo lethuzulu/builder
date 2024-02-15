@@ -13,8 +13,9 @@ const getRowId = (params) => {
 function ZonalMix() {
 
     const [rowData, setRowData] = useState(rows)
+    // eslint-disable-next-line no-unused-vars
     const [colDefs, setColDefs] = useState(columns)
-
+// eslint-disable-next-line no-unused-vars
     const [open, setOpen] = useState(false)
 
     const onRowValueChanged = (event) => {
