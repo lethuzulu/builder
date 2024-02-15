@@ -5,6 +5,7 @@ import 'ag-grid-community/styles/ag-theme-quartz.css' // Theme
 
 
 function BuildingType() {
+    // eslint-disable-next-line no-unused-vars
     const [rowData, setRowData] = useState([
         {
             id: 101,
@@ -568,7 +569,7 @@ function BuildingType() {
             land_sqm_per_unit: '0',
         },
     ])
-
+// eslint-disable-next-line no-unused-vars
     const [colDefs, setColDefs] = useState([
         { field: 'id', pinned: 'left' },
         { field: 'building_type_name', pinned: 'left' },
