@@ -1,0 +1,25 @@
+{
+  "api_base_url": "http://localhost:5001",
+  "redirect_url": "/login/",
+  "required_privilege": "datalogue",
+  "allowed_email_domains": [
+    "@csir.co.za",
+    "@login-platform.co.za"
+  ],
+  "MAPBOX_TOKEN": "pk.eyJ1IjoibGV0aHV6dWx1MzQ1IiwiYSI6ImNsZW54cHpxZDFlaTMzdm44ZzB0NG5zNTUifQ.2PLeQ8ZdUSBRHWtesC2IOA",
+  "initial_map_settings": {
+    "latitude": -26.228180917290317,
+    "longitude": 27.952417528185975,
+    "zoom": 9.1
+  },
+  "map_bounds": {
+    "sw": [
+      27.388191846045856,
+      -26.577357804460604
+    ],
+    "ne": [
+      28.454440980382003,
+      -25.88976728116066
+    ]
+  }
+}
