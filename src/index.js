@@ -5,6 +5,8 @@ import App from './App'
 import { Navigate, RouterProvider, createBrowserRouter } from 'react-router-dom'
 import DevelopmentGroup from './components/Development-Projects/DevelopmentGroup'
 import DevelopmentProject from './components/Development-Projects/DevelopmentProject'
+import ConstraintGroup from './components/Contraints-Tool/ConstraintGroup'
+import ConstraintProject from './components/Contraints-Tool/ConstraintProject'
 
 const router = createBrowserRouter([
     {
@@ -35,6 +37,14 @@ const router = createBrowserRouter([
         {
             path: '/development/:group_id',
             element: <DevelopmentProject />,
+        },
+        {
+            path: '/constraint',
+            element: <ConstraintGroup />,
+        },
+        {
+            path: '/constraint/:group_id',
+            element: <ConstraintProject />,
         },
         ]
     },
