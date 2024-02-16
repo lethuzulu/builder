@@ -24,7 +24,7 @@ function App() {
                 <Tab
                     label='Constraints'
                     component={Link}
-                    to={'development'}
+                    to={'constraint'}
                 />
                 <Tab
                     label='Zonal Density'
