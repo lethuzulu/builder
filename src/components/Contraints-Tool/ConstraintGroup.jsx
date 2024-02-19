@@ -11,7 +11,9 @@ import DeleteGroup from './DeleteGroup'
 import CreateGroup from './CreateGroup'
 
 function ConstraintGroup() {
-    const [groups, set_groups] = useState([])
+    const [groups, set_groups] = useState([
+        { name: 'Zonal', description: 'Zonal Desc.', geographic_extent: 'Gauteng', group_id: 0}
+    ])
 
     // useEffect(() => {
     //     axios
