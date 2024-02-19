@@ -29,7 +29,7 @@ function App() {
                 <Tab
                     label='Zonal Density'
                     component={Link}
-                    to={'zonal'}
+                    to={'zonal_density'}
                 />
                 <Tab
                     label='Projections'
@@ -40,7 +40,7 @@ function App() {
                 <Tab
                     label={'Building Type'}
                     component={Link}
-                    to={'building'}
+                    to={'building_type'}
                 />
                 <Tab
                     label={'Zonal Mix'}
