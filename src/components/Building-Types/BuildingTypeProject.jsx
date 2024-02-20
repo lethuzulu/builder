@@ -609,7 +609,7 @@ export default function BuildingTypeProject() {
         <div
             className='ag-theme-quartz'
             style={{
-                height: '500px',
+                height: '60vh',
             }}>
             <AgGridReact
                 rowData={rowData}

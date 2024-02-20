@@ -1,8 +1,9 @@
 import { Tab, Tabs } from '@mui/material'
 import { Box } from '@mui/system'
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Outlet } from 'react-router'
 import { Link } from 'react-router-dom'
+import Header from './components/Header'
 
 function App() {
     const [activeTab, setActiveTab] = React.useState(1)
@@ -11,7 +12,9 @@ function App() {
         setActiveTab(newValue)
     }
     return (
-        <div>
+        <Fragment>
+            <Header />
+            <div>
             <Tabs
                 value={activeTab}
                 onChange={handleTabChange}
@@ -52,6 +55,7 @@ function App() {
                 <Outlet />
             </Box>
         </div>
+        </Fragment>
     )
 }
 
