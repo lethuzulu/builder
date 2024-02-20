@@ -14,6 +14,19 @@ import ZonalMixGroup from './components/Zonal-Mix/ZonalMixGroup'
 
 import ZonalMixProject from './components/Zonal-Mix/ZonalMixProject'
 import BuildingTypeProject from './components/Building-Types/BuildingTypeProject'
+import { ThemeProvider, createTheme } from '@mui/material'
+import { grey } from '@mui/material/colors'
+
+const theme = createTheme({
+    palette: {
+        primary: {
+            main: '#01366a',
+        },
+        secondary: {
+            main: grey[100],
+        },
+    },
+})
 
 const router = createBrowserRouter([
     {
@@ -83,7 +96,9 @@ const router = createBrowserRouter([
 const root = ReactDOM.createRoot(document.getElementById('root'))
 root.render(
     <React.StrictMode>
-        <RouterProvider router={router} />
+        <ThemeProvider theme={theme}>
+            <RouterProvider router={router} />
+        </ThemeProvider>
     </React.StrictMode>
 )
 
