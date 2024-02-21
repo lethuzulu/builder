@@ -9,7 +9,7 @@ import {
     TableHead,
     TableRow,
 } from '@mui/material'
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import axios from 'axios'
 import config from '../../config.json'
@@ -22,31 +22,48 @@ function DevelopmentProject() {
     const { state } = useLocation()
     // eslint-disable-next-line no-unused-vars
     const { group } = state
-    
+
     // eslint-disable-next-line no-unused-vars
     const navigate = useNavigate()
 
     const [projects, set_projects] = useState([])
 
+    useEffect(() => {
+        axios
+            .get(
+                `${config.api_base_url}/builder/development_tool/development_project/${group_id}`
+            )
+            .then((response) => {
+                set_projects(() =>
+                    response.data.map((project) => ({
+                        ...project,
+                        zone_id: JSON.parse(project.zone_id),
+                        tags: JSON.parse(project.tags),
+                    }))
+                )
+            })
+            .catch((error) => console.log(error))
+    }, [group_id])
+
     const duplicate = async (project) => {
-      try {
-          const { project_id } = project
-          let response = await axios.post(
-              `${config.api_base_url}/builder/development_tool/development_project/duplicate`,
-              { project_id }
-          )
-          set_projects((projects) => [
-              ...projects,
-              {
-                  ...response.data,
-                  zone_id: JSON.parse(response.data.zone_id),
-                  tags: JSON.parse(response.data.tags),
-              },
-          ])
-      } catch (error) {
-          console.log(error)
-      }
-  }
+        try {
+            const { project_id } = project
+            let response = await axios.post(
+                `${config.api_base_url}/builder/development_tool/development_project/duplicate`,
+                { project_id }
+            )
+            set_projects((projects) => [
+                ...projects,
+                {
+                    ...response.data,
+                    zone_id: JSON.parse(response.data.zone_id),
+                    tags: JSON.parse(response.data.tags),
+                },
+            ])
+        } catch (error) {
+            console.log(error)
+        }
+    }
 
     return (
         <Box sx={{ mt: '0px', mx: '5px' }}>

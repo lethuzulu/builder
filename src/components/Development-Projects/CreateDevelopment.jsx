@@ -35,11 +35,7 @@ export default function CreateDevelopment({ set_groups }) {
         reset,
         formState: { errors },
     } = useForm({
-        defaultValues: {
-            name: '',
-            description: '',
-            geographic_extent: '',
-        },
+        defaultValues: { name: '', description: '', geographic_extent: '' },
     })
 
     const handleClose = () => {

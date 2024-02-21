@@ -1,6 +1,6 @@
 import { IconButton, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 // eslint-disable-next-line
-import React, { Fragment,  useState } from 'react'
+import React, { Fragment,  useEffect,  useState } from 'react'
 import axios from 'axios'
 import config from '../../config.json'
 import ContentCopyTwoToneIcon from '@mui/icons-material/ContentCopyTwoTone'
@@ -11,20 +11,18 @@ import DeleteGroup from './DeleteGroup'
 import CreateGroup from './CreateGroup'
 
 function ConstraintGroup() {
-    const [groups, set_groups] = useState([
-        { name: 'Zonal', description: 'Zonal Desc.', geographic_extent: 'Gauteng', group_id: 0}
-    ])
+    const [groups, set_groups] = useState([])
 
-    // useEffect(() => {
-    //     axios
-    //         .get(
-    //             `${config.api_base_url}/builder/constraint_tool/constraint_group/all`
-    //         )
-    //         .then((response) => {
-    //             set_groups(response.data)
-    //         })
-    //         .catch((error) => console.log(error))
-    // }, [])
+    useEffect(() => {
+        axios
+            .get(
+                `${config.api_base_url}/builder/constraint_tool/constraint_group/all`
+            )
+            .then((response) => {
+                set_groups(response.data)
+            })
+            .catch((error) => console.log(error))
+    }, [])
 
 
     const duplicate = async (group) => {
