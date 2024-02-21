@@ -1,7 +1,9 @@
 import {
     Box,
+    Button,
     IconButton,
     Paper,
+    Stack,
     Table,
     TableBody,
     TableCell,
@@ -15,6 +17,9 @@ import axios from 'axios'
 import config from '../../config.json'
 import ContentCopyTwoToneIcon from '@mui/icons-material/ContentCopyTwoTone'
 import CreateProject from './CreateProject'
+import Save from './Save'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack'
+
 
 function DevelopmentProject() {
     let { group_id } = useParams()
@@ -185,6 +190,18 @@ function DevelopmentProject() {
                 group_id={group_id}
                 set_projects={set_projects}
             />
+            <Stack
+                direction='row'
+                justifyContent='space-between'
+                alignItems='baseline'
+                spacing={2}>
+                <Button
+                    startIcon={<ArrowBackIcon />}
+                    onClick={() => navigate(-1)}>
+                    Back
+                </Button>
+                <Save group={group} />
+            </Stack>
         </Box>
     )
 }

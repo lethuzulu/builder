@@ -1,0 +1,7842 @@
+[
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61949,
+    "proportion": 0.903916304
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 1018,
+    "proportion": 0.014853941
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 243,
+    "proportion": 0.003545685
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 5324,
+    "proportion": 0.077684069
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 79573,
+    "proportion": 0.929373978
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 1680,
+    "proportion": 0.019621584
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 320,
+    "proportion": 0.003737445
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 4047,
+    "proportion": 0.047266994
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 43866,
+    "proportion": 0.881746367
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 880,
+    "proportion": 0.017688798
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 363,
+    "proportion": 0.007296629
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4640,
+    "proportion": 0.093268206
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 18267,
+    "proportion": 0.673288858
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 606,
+    "proportion": 0.022336073
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 422,
+    "proportion": 0.015554163
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7836,
+    "proportion": 0.288820906
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 8393,
+    "proportion": 0.487794955
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 449,
+    "proportion": 0.026095548
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 326,
+    "proportion": 0.018946879
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 8038,
+    "proportion": 0.467162618
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4447,
+    "proportion": 0.353244896
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 347,
+    "proportion": 0.027563746
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 220,
+    "proportion": 0.017475574
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7575,
+    "proportion": 0.601715784
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1606,
+    "proportion": 0.259450727
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 119,
+    "proportion": 0.019224556
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 130,
+    "proportion": 0.021001616
+  },
+  {
+    "geography": "west-rand",
+    "year": 2011,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4335,
+    "proportion": 0.700323102
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62335,
+    "proportion": 0.911903682
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 1071,
+    "proportion": 0.015667744
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 243,
+    "proportion": 0.003554866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 4708,
+    "proportion": 0.068873707
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 81809,
+    "proportion": 0.930705347
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 1832,
+    "proportion": 0.020841866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 321,
+    "proportion": 0.003651877
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3938,
+    "proportion": 0.04480091
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 44680,
+    "proportion": 0.884769995
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 934,
+    "proportion": 0.018495416
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 365,
+    "proportion": 0.007227866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4520,
+    "proportion": 0.089506723
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 18214,
+    "proportion": 0.677402559
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 613,
+    "proportion": 0.022798274
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 423,
+    "proportion": 0.015731925
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7638,
+    "proportion": 0.284067242
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 8380,
+    "proportion": 0.492304077
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 438,
+    "proportion": 0.025731406
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 326,
+    "proportion": 0.019151686
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7878,
+    "proportion": 0.46281283
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4462,
+    "proportion": 0.35836479
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 316,
+    "proportion": 0.025379488
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 216,
+    "proportion": 0.017348004
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7457,
+    "proportion": 0.598907718
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1614,
+    "proportion": 0.259193833
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 108,
+    "proportion": 0.017343825
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 132,
+    "proportion": 0.021198009
+  },
+  {
+    "geography": "west-rand",
+    "year": 2012,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4373,
+    "proportion": 0.702264333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62637,
+    "proportion": 0.921322037
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 1004,
+    "proportion": 0.014767746
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003618392
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 4099,
+    "proportion": 0.060291825
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 85251,
+    "proportion": 0.934114218
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 1892,
+    "proportion": 0.020731066
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 328,
+    "proportion": 0.003593969
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3793,
+    "proportion": 0.041560747
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 45994,
+    "proportion": 0.889546466
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 949,
+    "proportion": 0.018354124
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 374,
+    "proportion": 0.007233343
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4388,
+    "proportion": 0.084866067
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 18219,
+    "proportion": 0.682564064
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 602,
+    "proportion": 0.022553574
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 435,
+    "proportion": 0.016297018
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7436,
+    "proportion": 0.278585344
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 8407,
+    "proportion": 0.497014484
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 427,
+    "proportion": 0.025243866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 332,
+    "proportion": 0.01962755
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7749,
+    "proportion": 0.4581141
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4519,
+    "proportion": 0.363263666
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 301,
+    "proportion": 0.024196141
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 221,
+    "proportion": 0.017765273
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7399,
+    "proportion": 0.59477492
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1634,
+    "proportion": 0.259241631
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 103,
+    "proportion": 0.016341425
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 134,
+    "proportion": 0.021259718
+  },
+  {
+    "geography": "west-rand",
+    "year": 2013,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4432,
+    "proportion": 0.703157227
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62401,
+    "proportion": 0.929997913
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 986,
+    "proportion": 0.014694924
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 265,
+    "proportion": 0.003949447
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 3446,
+    "proportion": 0.051357716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 89866,
+    "proportion": 0.938616922
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 1998,
+    "proportion": 0.020868366
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 337,
+    "proportion": 0.00351984
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3542,
+    "proportion": 0.036994872
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 47736,
+    "proportion": 0.895660168
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 985,
+    "proportion": 0.01848134
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 388,
+    "proportion": 0.007279959
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4188,
+    "proportion": 0.078578532
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 18195,
+    "proportion": 0.688943582
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 607,
+    "proportion": 0.022983718
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 453,
+    "proportion": 0.017152594
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7155,
+    "proportion": 0.270920106
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 8425,
+    "proportion": 0.502355256
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 420,
+    "proportion": 0.025043229
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 344,
+    "proportion": 0.020511597
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7582,
+    "proportion": 0.452089917
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4586,
+    "proportion": 0.368708796
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 287,
+    "proportion": 0.023074449
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 224,
+    "proportion": 0.018009326
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7341,
+    "proportion": 0.590207429
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1656,
+    "proportion": 0.259398496
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 97,
+    "proportion": 0.015194236
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 137,
+    "proportion": 0.0214599
+  },
+  {
+    "geography": "west-rand",
+    "year": 2014,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4494,
+    "proportion": 0.703947368
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62072,
+    "proportion": 0.9359187
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 937,
+    "proportion": 0.014128042
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 265,
+    "proportion": 0.003995658
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 3048,
+    "proportion": 0.045957601
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 94611,
+    "proportion": 0.942321866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 1989,
+    "proportion": 0.019810362
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 341,
+    "proportion": 0.003396347
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3461,
+    "proportion": 0.034471425
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 50217,
+    "proportion": 0.901044283
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 976,
+    "proportion": 0.017512381
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 401,
+    "proportion": 0.007195148
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4138,
+    "proportion": 0.074248188
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 19103,
+    "proportion": 0.700513385
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 593,
+    "proportion": 0.021745508
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 478,
+    "proportion": 0.01752842
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7096,
+    "proportion": 0.260212688
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 8834,
+    "proportion": 0.513993134
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 410,
+    "proportion": 0.023855239
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 363,
+    "proportion": 0.021120614
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7580,
+    "proportion": 0.441031012
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4786,
+    "proportion": 0.37720681
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 277,
+    "proportion": 0.021831652
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 237,
+    "proportion": 0.018679067
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7388,
+    "proportion": 0.582282472
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1730,
+    "proportion": 0.264566447
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 94,
+    "proportion": 0.014375287
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 146,
+    "proportion": 0.022327573
+  },
+  {
+    "geography": "west-rand",
+    "year": 2015,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4569,
+    "proportion": 0.698730693
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61725,
+    "proportion": 0.941475245
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 914,
+    "proportion": 0.013941002
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 258,
+    "proportion": 0.003935206
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 2665,
+    "proportion": 0.040648546
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 98909,
+    "proportion": 0.945276437
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2034,
+    "proportion": 0.019439002
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 342,
+    "proportion": 0.003268505
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3350,
+    "proportion": 0.032016056
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 52490,
+    "proportion": 0.905608944
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 994,
+    "proportion": 0.017149463
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 414,
+    "proportion": 0.007142734
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 4063,
+    "proportion": 0.07009886
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 19959,
+    "proportion": 0.711246526
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 599,
+    "proportion": 0.021345592
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 502,
+    "proportion": 0.01788896
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 7002,
+    "proportion": 0.249518922
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 9217,
+    "proportion": 0.524288965
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 413,
+    "proportion": 0.023492605
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 382,
+    "proportion": 0.021729238
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7568,
+    "proportion": 0.430489192
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 4974,
+    "proportion": 0.384300394
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 277,
+    "proportion": 0.02140153
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 251,
+    "proportion": 0.019392722
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7441,
+    "proportion": 0.574905354
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1801,
+    "proportion": 0.269167538
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 94,
+    "proportion": 0.014048722
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 158,
+    "proportion": 0.02361381
+  },
+  {
+    "geography": "west-rand",
+    "year": 2016,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4638,
+    "proportion": 0.69316993
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61584,
+    "proportion": 0.946208804
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 892,
+    "proportion": 0.013705155
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 256,
+    "proportion": 0.003933318
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 2353,
+    "proportion": 0.036152723
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 103175,
+    "proportion": 0.947933702
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2085,
+    "proportion": 0.019156208
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 343,
+    "proportion": 0.003151357
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3239,
+    "proportion": 0.029758733
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 54771,
+    "proportion": 0.909741716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1016,
+    "proportion": 0.016875675
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 426,
+    "proportion": 0.007075824
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3992,
+    "proportion": 0.066306785
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 20841,
+    "proportion": 0.721341548
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 609,
+    "proportion": 0.021078499
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 527,
+    "proportion": 0.018240343
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6915,
+    "proportion": 0.23933961
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 9615,
+    "proportion": 0.534077654
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 417,
+    "proportion": 0.023162806
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 401,
+    "proportion": 0.022274065
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7570,
+    "proportion": 0.420485475
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 5168,
+    "proportion": 0.390568319
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 278,
+    "proportion": 0.021009674
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 266,
+    "proportion": 0.020102781
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7520,
+    "proportion": 0.568319226
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1872,
+    "proportion": 0.273165037
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 96,
+    "proportion": 0.014008463
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 168,
+    "proportion": 0.024514811
+  },
+  {
+    "geography": "west-rand",
+    "year": 2017,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4717,
+    "proportion": 0.688311688
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61433,
+    "proportion": 0.950136876
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 875,
+    "proportion": 0.013532951
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 254,
+    "proportion": 0.003928422
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 2095,
+    "proportion": 0.032401751
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 107182,
+    "proportion": 0.950270855
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2139,
+    "proportion": 0.018964279
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.003049889
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3126,
+    "proportion": 0.027714977
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 56934,
+    "proportion": 0.913501805
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1039,
+    "proportion": 0.016670678
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 437,
+    "proportion": 0.007011633
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3915,
+    "proportion": 0.062815884
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 21700,
+    "proportion": 0.730984302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 618,
+    "proportion": 0.020817894
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 548,
+    "proportion": 0.01845988
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6820,
+    "proportion": 0.229737924
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 10001,
+    "proportion": 0.543119366
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 423,
+    "proportion": 0.022971652
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 421,
+    "proportion": 0.022863039
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7569,
+    "proportion": 0.411045943
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 5355,
+    "proportion": 0.396255735
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 281,
+    "proportion": 0.020793251
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 281,
+    "proportion": 0.020793251
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7597,
+    "proportion": 0.562157762
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 1942,
+    "proportion": 0.277190979
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 96,
+    "proportion": 0.013702541
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 176,
+    "proportion": 0.025121325
+  },
+  {
+    "geography": "west-rand",
+    "year": 2018,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4792,
+    "proportion": 0.683985156
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61361,
+    "proportion": 0.953758393
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 862,
+    "proportion": 0.013398408
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 250,
+    "proportion": 0.003885849
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1863,
+    "proportion": 0.028957349
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 111188,
+    "proportion": 0.952384215
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2195,
+    "proportion": 0.01880134
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.002946543
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 3020,
+    "proportion": 0.025867902
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 59113,
+    "proportion": 0.916963981
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1064,
+    "proportion": 0.016504824
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 447,
+    "proportion": 0.006933888
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3842,
+    "proportion": 0.059597307
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 22580,
+    "proportion": 0.740157997
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 630,
+    "proportion": 0.020650998
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 570,
+    "proportion": 0.018684236
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6727,
+    "proportion": 0.220506769
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 10396,
+    "proportion": 0.551980461
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 431,
+    "proportion": 0.022884146
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 440,
+    "proportion": 0.023362005
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7567,
+    "proportion": 0.401773389
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 5546,
+    "proportion": 0.402058866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 282,
+    "proportion": 0.020443671
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 296,
+    "proportion": 0.021458605
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7670,
+    "proportion": 0.556038857
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2012,
+    "proportion": 0.280966345
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 97,
+    "proportion": 0.013545594
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 188,
+    "proportion": 0.026253317
+  },
+  {
+    "geography": "west-rand",
+    "year": 2019,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4864,
+    "proportion": 0.679234744
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61322,
+    "proportion": 0.956810735
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 853,
+    "proportion": 0.013309409
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 247,
+    "proportion": 0.003853955
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1668,
+    "proportion": 0.026025901
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 115210,
+    "proportion": 0.954286046
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2254,
+    "proportion": 0.018669914
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.002849357
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2921,
+    "proportion": 0.024194684
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 61313,
+    "proportion": 0.920159681
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1091,
+    "proportion": 0.016373269
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 459,
+    "proportion": 0.006888479
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3770,
+    "proportion": 0.056578572
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 23479,
+    "proportion": 0.74895531
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 643,
+    "proportion": 0.020511021
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 591,
+    "proportion": 0.018852276
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6636,
+    "proportion": 0.211681393
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 10797,
+    "proportion": 0.560679234
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 438,
+    "proportion": 0.022744976
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 459,
+    "proportion": 0.023835488
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7563,
+    "proportion": 0.392740302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 5740,
+    "proportion": 0.407931206
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 285,
+    "proportion": 0.020254424
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 310,
+    "proportion": 0.022031128
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7736,
+    "proportion": 0.549783242
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2084,
+    "proportion": 0.285010941
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 99,
+    "proportion": 0.013539387
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 198,
+    "proportion": 0.027078775
+  },
+  {
+    "geography": "west-rand",
+    "year": 2020,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4931,
+    "proportion": 0.674370897
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61329,
+    "proportion": 0.959419927
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 846,
+    "proportion": 0.013234673
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 247,
+    "proportion": 0.003864024
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1501,
+    "proportion": 0.023481376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 119344,
+    "proportion": 0.956052231
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2314,
+    "proportion": 0.018537211
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.002755748
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2828,
+    "proportion": 0.022654811
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 63579,
+    "proportion": 0.923174096
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1117,
+    "proportion": 0.016218963
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 470,
+    "proportion": 0.006824452
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3704,
+    "proportion": 0.053782489
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 24412,
+    "proportion": 0.757407465
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 656,
+    "proportion": 0.020353076
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 614,
+    "proportion": 0.019049983
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6549,
+    "proportion": 0.203189476
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 11215,
+    "proportion": 0.56954954
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 444,
+    "proportion": 0.022548372
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 478,
+    "proportion": 0.02427505
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7554,
+    "proportion": 0.383627038
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 5941,
+    "proportion": 0.41397812
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 288,
+    "proportion": 0.020068288
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 326,
+    "proportion": 0.022716187
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7796,
+    "proportion": 0.543237405
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2157,
+    "proportion": 0.289064594
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 99,
+    "proportion": 0.013267221
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 210,
+    "proportion": 0.028142589
+  },
+  {
+    "geography": "west-rand",
+    "year": 2021,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 4996,
+    "proportion": 0.669525596
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61356,
+    "proportion": 0.96178324
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 840,
+    "proportion": 0.013167383
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 247,
+    "proportion": 0.003871837
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1351,
+    "proportion": 0.02117754
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 123584,
+    "proportion": 0.957696272
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2377,
+    "proportion": 0.018420217
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.002665778
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2738,
+    "proportion": 0.021217734
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 65910,
+    "proportion": 0.926066431
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1145,
+    "proportion": 0.016087787
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 480,
+    "proportion": 0.006744225
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3637,
+    "proportion": 0.051101557
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 25378,
+    "proportion": 0.765712217
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 670,
+    "proportion": 0.02021543
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 637,
+    "proportion": 0.019219745
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6458,
+    "proportion": 0.194852608
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 11647,
+    "proportion": 0.578445493
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 453,
+    "proportion": 0.022498138
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 498,
+    "proportion": 0.024733052
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7537,
+    "proportion": 0.374323318
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 6149,
+    "proportion": 0.420588235
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 290,
+    "proportion": 0.019835841
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 341,
+    "proportion": 0.023324213
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7840,
+    "proportion": 0.53625171
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2233,
+    "proportion": 0.293661231
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 101,
+    "proportion": 0.013282483
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 220,
+    "proportion": 0.028932141
+  },
+  {
+    "geography": "west-rand",
+    "year": 2022,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5050,
+    "proportion": 0.664124145
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61406,
+    "proportion": 0.96386639
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 836,
+    "proportion": 0.013122371
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 245,
+    "proportion": 0.003845671
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1221,
+    "proportion": 0.019165568
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 127946,
+    "proportion": 0.959223301
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2441,
+    "proportion": 0.018300409
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 344,
+    "proportion": 0.002579001
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2654,
+    "proportion": 0.01989729
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 68316,
+    "proportion": 0.928736507
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1174,
+    "proportion": 0.015960195
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 494,
+    "proportion": 0.006715789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3574,
+    "proportion": 0.048587509
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 26380,
+    "proportion": 0.773720487
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 683,
+    "proportion": 0.020032263
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 660,
+    "proportion": 0.019357677
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6372,
+    "proportion": 0.186889573
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 12096,
+    "proportion": 0.58735554
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 461,
+    "proportion": 0.022385161
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 517,
+    "proportion": 0.025104399
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7520,
+    "proportion": 0.365154899
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 6364,
+    "proportion": 0.427171432
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 293,
+    "proportion": 0.019667069
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 358,
+    "proportion": 0.024030071
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7883,
+    "proportion": 0.529131427
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2311,
+    "proportion": 0.298424587
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 102,
+    "proportion": 0.013171488
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 229,
+    "proportion": 0.029571281
+  },
+  {
+    "geography": "west-rand",
+    "year": 2023,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5102,
+    "proportion": 0.658832645
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61474,
+    "proportion": 0.965797866
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 832,
+    "proportion": 0.013071279
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003864825
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 1099,
+    "proportion": 0.017266029
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 132435,
+    "proportion": 0.960641516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2504,
+    "proportion": 0.018163222
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 345,
+    "proportion": 0.002502521
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2577,
+    "proportion": 0.018692741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 70796,
+    "proportion": 0.931305743
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1202,
+    "proportion": 0.015812045
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 505,
+    "proportion": 0.006643163
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3515,
+    "proportion": 0.046239049
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 27418,
+    "proportion": 0.781362211
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 697,
+    "proportion": 0.019863209
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 685,
+    "proportion": 0.019521231
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6290,
+    "proportion": 0.179253349
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 12558,
+    "proportion": 0.596098163
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 467,
+    "proportion": 0.022167371
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 539,
+    "proportion": 0.025585038
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7503,
+    "proportion": 0.356149428
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 6588,
+    "proportion": 0.434077881
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 295,
+    "proportion": 0.019437306
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 374,
+    "proportion": 0.024642551
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7920,
+    "proportion": 0.521842261
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2395,
+    "proportion": 0.303587273
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 103,
+    "proportion": 0.013056154
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 242,
+    "proportion": 0.030675624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2024,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5149,
+    "proportion": 0.652680948
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61565,
+    "proportion": 0.967440326
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 829,
+    "proportion": 0.013027013
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003865676
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 997,
+    "proportion": 0.015666986
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 137058,
+    "proportion": 0.961938785
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2572,
+    "proportion": 0.01805153
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 345,
+    "proportion": 0.002421375
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2506,
+    "proportion": 0.01758831
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 73356,
+    "proportion": 0.93366256
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1232,
+    "proportion": 0.015680684
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 519,
+    "proportion": 0.006605743
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3461,
+    "proportion": 0.044051013
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 28494,
+    "proportion": 0.788608436
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 712,
+    "proportion": 0.019705524
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 710,
+    "proportion": 0.019650172
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6216,
+    "proportion": 0.172035868
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 13042,
+    "proportion": 0.604720174
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 477,
+    "proportion": 0.022117123
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 561,
+    "proportion": 0.026011963
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7487,
+    "proportion": 0.34715074
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 6819,
+    "proportion": 0.440959648
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 299,
+    "proportion": 0.01933523
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 392,
+    "proportion": 0.025349198
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7954,
+    "proportion": 0.514355923
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2478,
+    "proportion": 0.308592777
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 104,
+    "proportion": 0.012951432
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 253,
+    "proportion": 0.031506849
+  },
+  {
+    "geography": "west-rand",
+    "year": 2025,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5195,
+    "proportion": 0.646948941
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61683,
+    "proportion": 0.968974834
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 827,
+    "proportion": 0.012991297
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.0038644
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 902,
+    "proportion": 0.014169468
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 141822,
+    "proportion": 0.963157144
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2639,
+    "proportion": 0.017922267
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 346,
+    "proportion": 0.002349793
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2440,
+    "proportion": 0.016570796
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 76001,
+    "proportion": 0.935915276
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1262,
+    "proportion": 0.015540915
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 532,
+    "proportion": 0.006551321
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3410,
+    "proportion": 0.041992488
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 29612,
+    "proportion": 0.79563652
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 725,
+    "proportion": 0.019479822
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 735,
+    "proportion": 0.019748509
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6146,
+    "proportion": 0.16513515
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 13542,
+    "proportion": 0.613287442
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 485,
+    "proportion": 0.021964585
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 584,
+    "proportion": 0.026448078
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7470,
+    "proportion": 0.338299896
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 7060,
+    "proportion": 0.448054833
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 303,
+    "proportion": 0.019229549
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 410,
+    "proportion": 0.026020182
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7984,
+    "proportion": 0.506695437
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2566,
+    "proportion": 0.313883792
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 105,
+    "proportion": 0.012844037
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 267,
+    "proportion": 0.03266055
+  },
+  {
+    "geography": "west-rand",
+    "year": 2026,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5237,
+    "proportion": 0.640611621
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61852,
+    "proportion": 0.97025789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 823,
+    "proportion": 0.012910209
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003858945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 827,
+    "proportion": 0.012972956
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 146785,
+    "proportion": 0.96433311
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2706,
+    "proportion": 0.017777603
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 346,
+    "proportion": 0.002273115
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2377,
+    "proportion": 0.015616172
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 78758,
+    "proportion": 0.938041925
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1293,
+    "proportion": 0.015400191
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 546,
+    "proportion": 0.006503097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3363,
+    "proportion": 0.040054788
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 30781,
+    "proportion": 0.802382566
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 740,
+    "proportion": 0.019289922
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 762,
+    "proportion": 0.019863406
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6079,
+    "proportion": 0.158464105
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 14066,
+    "proportion": 0.62183908
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 494,
+    "proportion": 0.02183908
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 606,
+    "proportion": 0.026790451
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7454,
+    "proportion": 0.329531388
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 7313,
+    "proportion": 0.455439995
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 307,
+    "proportion": 0.019119387
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 428,
+    "proportion": 0.026655041
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8009,
+    "proportion": 0.498785576
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2659,
+    "proportion": 0.319706625
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 106,
+    "proportion": 0.01274498
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 278,
+    "proportion": 0.033425514
+  },
+  {
+    "geography": "west-rand",
+    "year": 2027,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5274,
+    "proportion": 0.634122881
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62030,
+    "proportion": 0.971541341
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 820,
+    "proportion": 0.012843203
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003852961
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 751,
+    "proportion": 0.011762495
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 151854,
+    "proportion": 0.965408945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2774,
+    "proportion": 0.017635653
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 347,
+    "proportion": 0.002206046
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2320,
+    "proportion": 0.014749356
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 81583,
+    "proportion": 0.940091263
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1323,
+    "proportion": 0.015245097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 559,
+    "proportion": 0.006441428
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3317,
+    "proportion": 0.038222212
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 31986,
+    "proportion": 0.808871131
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 754,
+    "proportion": 0.019067368
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 788,
+    "proportion": 0.01992717
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 6016,
+    "proportion": 0.152134331
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 14607,
+    "proportion": 0.630264066
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 503,
+    "proportion": 0.021703486
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 629,
+    "proportion": 0.027140145
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7437,
+    "proportion": 0.320892302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 7575,
+    "proportion": 0.46299126
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 310,
+    "proportion": 0.018947497
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 446,
+    "proportion": 0.027259947
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8030,
+    "proportion": 0.490801296
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2752,
+    "proportion": 0.325372428
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 108,
+    "proportion": 0.012768976
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 292,
+    "proportion": 0.034523528
+  },
+  {
+    "geography": "west-rand",
+    "year": 2028,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5306,
+    "proportion": 0.627335067
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62216,
+    "proportion": 0.972520086
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 817,
+    "proportion": 0.012770813
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003876575
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 693,
+    "proportion": 0.010832526
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 157033,
+    "proportion": 0.966422342
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2842,
+    "proportion": 0.017490415
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 348,
+    "proportion": 0.002141683
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2266,
+    "proportion": 0.013945559
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 84476,
+    "proportion": 0.942013471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1353,
+    "proportion": 0.015087649
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 572,
+    "proportion": 0.006378518
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3275,
+    "proportion": 0.036520362
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 33226,
+    "proportion": 0.814981972
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 769,
+    "proportion": 0.018862371
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 816,
+    "proportion": 0.020015208
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5958,
+    "proportion": 0.14614045
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 15161,
+    "proportion": 0.638492314
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 511,
+    "proportion": 0.02152032
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 655,
+    "proportion": 0.027584755
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7418,
+    "proportion": 0.312402611
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 7844,
+    "proportion": 0.470545891
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 313,
+    "proportion": 0.018776245
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 464,
+    "proportion": 0.027834433
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8049,
+    "proportion": 0.482843431
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2849,
+    "proportion": 0.331394673
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 108,
+    "proportion": 0.012562522
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 304,
+    "proportion": 0.035361173
+  },
+  {
+    "geography": "west-rand",
+    "year": 2029,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5336,
+    "proportion": 0.620681633
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62405,
+    "proportion": 0.973496194
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 814,
+    "proportion": 0.012698116
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003868713
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 637,
+    "proportion": 0.009936977
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 162330,
+    "proportion": 0.967372843
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2911,
+    "proportion": 0.017347516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 349,
+    "proportion": 0.002079795
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2215,
+    "proportion": 0.013199845
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 87439,
+    "proportion": 0.943807005
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1384,
+    "proportion": 0.014938745
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 587,
+    "proportion": 0.006336014
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3235,
+    "proportion": 0.034918236
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 34502,
+    "proportion": 0.82085078
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 782,
+    "proportion": 0.018604872
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 846,
+    "proportion": 0.020127522
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5902,
+    "proportion": 0.140416825
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 15734,
+    "proportion": 0.646691328
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 519,
+    "proportion": 0.021331689
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 678,
+    "proportion": 0.027866831
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7399,
+    "proportion": 0.304110152
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 8121,
+    "proportion": 0.478099611
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 317,
+    "proportion": 0.018662428
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 484,
+    "proportion": 0.028494054
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8064,
+    "proportion": 0.474743907
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 2950,
+    "proportion": 0.33748999
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 110,
+    "proportion": 0.012584372
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 319,
+    "proportion": 0.03649468
+  },
+  {
+    "geography": "west-rand",
+    "year": 2030,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5362,
+    "proportion": 0.613430958
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62562,
+    "proportion": 0.974485981
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 811,
+    "proportion": 0.012632399
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003862928
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 579,
+    "proportion": 0.009018692
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 167674,
+    "proportion": 0.968267993
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 2981,
+    "proportion": 0.017214397
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 349,
+    "proportion": 0.002015372
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2165,
+    "proportion": 0.012502238
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 90438,
+    "proportion": 0.945509671
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1414,
+    "proportion": 0.014783063
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 602,
+    "proportion": 0.006293779
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3196,
+    "proportion": 0.033413487
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 35798,
+    "proportion": 0.826495509
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 797,
+    "proportion": 0.018400942
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 874,
+    "proportion": 0.020178699
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5844,
+    "proportion": 0.134924849
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 16314,
+    "proportion": 0.654576094
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 527,
+    "proportion": 0.021145127
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 703,
+    "proportion": 0.028206877
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7379,
+    "proportion": 0.296071901
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 8401,
+    "proportion": 0.485719241
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 320,
+    "proportion": 0.018501388
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 503,
+    "proportion": 0.029081869
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8072,
+    "proportion": 0.466697502
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3052,
+    "proportion": 0.343654994
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 110,
+    "proportion": 0.012385993
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 332,
+    "proportion": 0.037383178
+  },
+  {
+    "geography": "west-rand",
+    "year": 2031,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5387,
+    "proportion": 0.606575836
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62657,
+    "proportion": 0.975251763
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 810,
+    "proportion": 0.012607593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003860102
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 532,
+    "proportion": 0.008280542
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 172991,
+    "proportion": 0.96910468
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3049,
+    "proportion": 0.017080658
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 350,
+    "proportion": 0.001960718
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2116,
+    "proportion": 0.011853943
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 93428,
+    "proportion": 0.947113386
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1445,
+    "proportion": 0.014648487
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 617,
+    "proportion": 0.006254752
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3155,
+    "proportion": 0.031983375
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 37096,
+    "proportion": 0.831842135
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 811,
+    "proportion": 0.018185895
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 903,
+    "proportion": 0.020248907
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5785,
+    "proportion": 0.129723063
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 16896,
+    "proportion": 0.662250617
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 536,
+    "proportion": 0.021008897
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 728,
+    "proportion": 0.028534473
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7353,
+    "proportion": 0.288206013
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 8681,
+    "proportion": 0.49304254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 325,
+    "proportion": 0.018458568
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 524,
+    "proportion": 0.029760891
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8077,
+    "proportion": 0.458738002
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3151,
+    "proportion": 0.349489796
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 112,
+    "proportion": 0.01242236
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 347,
+    "proportion": 0.038487134
+  },
+  {
+    "geography": "west-rand",
+    "year": 2032,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5406,
+    "proportion": 0.59960071
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62691,
+    "proportion": 0.975948067
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 805,
+    "proportion": 0.012531914
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003860763
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 492,
+    "proportion": 0.007659256
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 178287,
+    "proportion": 0.969873521
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3120,
+    "proportion": 0.016972664
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 350,
+    "proportion": 0.001903985
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2068,
+    "proportion": 0.01124983
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 96412,
+    "proportion": 0.948638224
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1476,
+    "proportion": 0.014522985
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 631,
+    "proportion": 0.006208674
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3113,
+    "proportion": 0.030630116
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 38402,
+    "proportion": 0.836936623
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 825,
+    "proportion": 0.017980124
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 933,
+    "proportion": 0.020333885
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5724,
+    "proportion": 0.124749368
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 17479,
+    "proportion": 0.669667829
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 543,
+    "proportion": 0.020803801
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 754,
+    "proportion": 0.028887782
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7325,
+    "proportion": 0.280640588
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 8960,
+    "proportion": 0.500223314
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 329,
+    "proportion": 0.018367575
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 544,
+    "proportion": 0.030370701
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8079,
+    "proportion": 0.45103841
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3253,
+    "proportion": 0.355519126
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 113,
+    "proportion": 0.012349727
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 360,
+    "proportion": 0.039344262
+  },
+  {
+    "geography": "west-rand",
+    "year": 2033,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5424,
+    "proportion": 0.592786885
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62672,
+    "proportion": 0.976579665
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 803,
+    "proportion": 0.012512661
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003864433
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 452,
+    "proportion": 0.007043241
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 183575,
+    "proportion": 0.970597877
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3190,
+    "proportion": 0.01686617
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 350,
+    "proportion": 0.00185052
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 2021,
+    "proportion": 0.010685433
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 99398,
+    "proportion": 0.950086026
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1506,
+    "proportion": 0.014394953
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 645,
+    "proportion": 0.006165169
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3071,
+    "proportion": 0.029353852
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 39712,
+    "proportion": 0.841801802
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 839,
+    "proportion": 0.017784844
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 961,
+    "proportion": 0.020370959
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5663,
+    "proportion": 0.120042395
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 18064,
+    "proportion": 0.676807793
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 552,
+    "proportion": 0.020681903
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 779,
+    "proportion": 0.029186961
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7295,
+    "proportion": 0.273323342
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 9240,
+    "proportion": 0.507329929
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 331,
+    "proportion": 0.018173832
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 565,
+    "proportion": 0.031021798
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8077,
+    "proportion": 0.443474441
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3354,
+    "proportion": 0.361266695
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 114,
+    "proportion": 0.01227919
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 376,
+    "proportion": 0.040499785
+  },
+  {
+    "geography": "west-rand",
+    "year": 2034,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5440,
+    "proportion": 0.58595433
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62613,
+    "proportion": 0.977045752
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 799,
+    "proportion": 0.012468011
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003869921
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 424,
+    "proportion": 0.006616316
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 188890,
+    "proportion": 0.97128665
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3260,
+    "proportion": 0.016763166
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 349,
+    "proportion": 0.001794584
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1975,
+    "proportion": 0.010155599
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 102406,
+    "proportion": 0.951454507
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1537,
+    "proportion": 0.014280272
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 659,
+    "proportion": 0.006122771
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 3029,
+    "proportion": 0.02814245
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 41037,
+    "proportion": 0.846490233
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 853,
+    "proportion": 0.017595247
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 990,
+    "proportion": 0.020421213
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5599,
+    "proportion": 0.115493306
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 18656,
+    "proportion": 0.683770708
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 561,
+    "proportion": 0.020561501
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 804,
+    "proportion": 0.02946782
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7263,
+    "proportion": 0.266199971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 9521,
+    "proportion": 0.514259479
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 335,
+    "proportion": 0.018094415
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 584,
+    "proportion": 0.031543697
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8074,
+    "proportion": 0.436102409
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3455,
+    "proportion": 0.366967605
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 115,
+    "proportion": 0.012214551
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 391,
+    "proportion": 0.041529474
+  },
+  {
+    "geography": "west-rand",
+    "year": 2035,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5454,
+    "proportion": 0.57928837
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62516,
+    "proportion": 0.977530374
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 796,
+    "proportion": 0.012446641
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003877848
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 393,
+    "proportion": 0.006145138
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 194226,
+    "proportion": 0.971946435
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3330,
+    "proportion": 0.016663998
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 348,
+    "proportion": 0.001741463
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1928,
+    "proportion": 0.009648104
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 105433,
+    "proportion": 0.952748007
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1569,
+    "proportion": 0.014178309
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 673,
+    "proportion": 0.006081582
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 2987,
+    "proportion": 0.026992102
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 42376,
+    "proportion": 0.851009137
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 868,
+    "proportion": 0.017431469
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 1017,
+    "proportion": 0.020423737
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5534,
+    "proportion": 0.111135656
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 19252,
+    "proportion": 0.690580386
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 569,
+    "proportion": 0.020410359
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 830,
+    "proportion": 0.029772581
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7227,
+    "proportion": 0.259236674
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 9805,
+    "proportion": 0.521154459
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 338,
+    "proportion": 0.017965345
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 605,
+    "proportion": 0.032156904
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8066,
+    "proportion": 0.428723291
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3556,
+    "proportion": 0.372668204
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 115,
+    "proportion": 0.012051981
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 405,
+    "proportion": 0.042443932
+  },
+  {
+    "geography": "west-rand",
+    "year": 2036,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5466,
+    "proportion": 0.572835883
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62396,
+    "proportion": 0.97800906
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 792,
+    "proportion": 0.012413988
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 248,
+    "proportion": 0.003887208
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 363,
+    "proportion": 0.005689744
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 199616,
+    "proportion": 0.972583718
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3400,
+    "proportion": 0.016565729
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 346,
+    "proportion": 0.001685807
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1881,
+    "proportion": 0.009164746
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 108494,
+    "proportion": 0.954045023
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1598,
+    "proportion": 0.014052058
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 685,
+    "proportion": 0.006023567
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 2943,
+    "proportion": 0.025879353
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 43735,
+    "proportion": 0.855485789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 880,
+    "proportion": 0.017213387
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 1044,
+    "proportion": 0.020421337
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5464,
+    "proportion": 0.106879487
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 19858,
+    "proportion": 0.69738367
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 575,
+    "proportion": 0.020193152
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 854,
+    "proportion": 0.02999122
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7188,
+    "proportion": 0.252431958
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 10089,
+    "proportion": 0.528026378
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 341,
+    "proportion": 0.017846862
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 625,
+    "proportion": 0.032710525
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8052,
+    "proportion": 0.421416235
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3659,
+    "proportion": 0.378308519
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 119,
+    "proportion": 0.012303557
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 420,
+    "proportion": 0.043424318
+  },
+  {
+    "geography": "west-rand",
+    "year": 2037,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5474,
+    "proportion": 0.565963606
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62248,
+    "proportion": 0.978495976
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 789,
+    "proportion": 0.01240254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 246,
+    "proportion": 0.003866952
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 333,
+    "proportion": 0.005234532
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 205038,
+    "proportion": 0.973178476
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3470,
+    "proportion": 0.016469773
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 345,
+    "proportion": 0.001637485
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1836,
+    "proportion": 0.008714266
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 111579,
+    "proportion": 0.955291479
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1628,
+    "proportion": 0.013938237
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 697,
+    "proportion": 0.005967415
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 2897,
+    "proportion": 0.02480287
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 45110,
+    "proportion": 0.859745755
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 894,
+    "proportion": 0.017038632
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 1071,
+    "proportion": 0.020412053
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5394,
+    "proportion": 0.10280356
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 20470,
+    "proportion": 0.704041273
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 584,
+    "proportion": 0.020085985
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 877,
+    "proportion": 0.030163371
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7144,
+    "proportion": 0.245709372
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 10377,
+    "proportion": 0.534869337
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 343,
+    "proportion": 0.017679501
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 646,
+    "proportion": 0.033297253
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8035,
+    "proportion": 0.41415391
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3763,
+    "proportion": 0.384136382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 119,
+    "proportion": 0.012147815
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 434,
+    "proportion": 0.044303797
+  },
+  {
+    "geography": "west-rand",
+    "year": 2038,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5480,
+    "proportion": 0.559412005
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 62069,
+    "proportion": 0.978836479
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 785,
+    "proportion": 0.012379556
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 245,
+    "proportion": 0.003863683
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 312,
+    "proportion": 0.004920282
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 210480,
+    "proportion": 0.973768217
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3537,
+    "proportion": 0.016363636
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 343,
+    "proportion": 0.001586861
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1790,
+    "proportion": 0.008281286
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 114681,
+    "proportion": 0.956456106
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1658,
+    "proportion": 0.01382796
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 710,
+    "proportion": 0.005921503
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 2853,
+    "proportion": 0.023794432
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 46497,
+    "proportion": 0.863903237
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 905,
+    "proportion": 0.016814685
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 1097,
+    "proportion": 0.020382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5323,
+    "proportion": 0.098900078
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 21087,
+    "proportion": 0.710502375
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 592,
+    "proportion": 0.019946764
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 902,
+    "proportion": 0.03039186
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7098,
+    "proportion": 0.239159001
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 10667,
+    "proportion": 0.541637047
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 347,
+    "proportion": 0.01761958
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 666,
+    "proportion": 0.033817406
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 8014,
+    "proportion": 0.406925967
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3866,
+    "proportion": 0.389717742
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 121,
+    "proportion": 0.012197581
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 450,
+    "proportion": 0.045362903
+  },
+  {
+    "geography": "west-rand",
+    "year": 2039,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5483,
+    "proportion": 0.552721774
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": 61872,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": 781,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": 243,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": 290,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": 215979,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": 3607,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": 341,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": 1746,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": 117822,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": 1688,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": 720,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": 2807,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": 47908,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": 918,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": 1121,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": 5249,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": 21713,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": 598,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": 925,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": 7050,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": 10959,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": 349,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": 684,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": 7992,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": 3973,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": 121,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": 463,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2040,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": 5484,
+    "proportion": 0.546160741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2041,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.546160741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2042,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.546160741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2043,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.546160741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2044,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.546160741
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.979204254
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.012360333
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.003845789
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 0,
+    "total_number_of_households": -1,
+    "proportion": 0.004589624
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.974313516
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.016271716
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.001538302
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 1,
+    "total_number_of_households": -1,
+    "proportion": 0.007876467
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.957614376
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.01371945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.005851898
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 2,
+    "total_number_of_households": -1,
+    "proportion": 0.022814275
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.867961446
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.01663164
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.020309443
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 3,
+    "total_number_of_households": -1,
+    "proportion": 0.095097471
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.716931916
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.019745097
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.030542165
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 4,
+    "total_number_of_households": -1,
+    "proportion": 0.232780823
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.548388711
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.017463971
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.034227382
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 5,
+    "total_number_of_households": -1,
+    "proportion": 0.399919936
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 1,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.395677721
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 2,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.012050593
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 3,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.046110945
+  },
+  {
+    "geography": "west-rand",
+    "year": 2045,
+    "race_of_head": 4,
+    "income_quantile": 6,
+    "total_number_of_households": -1,
+    "proportion": 0.546160741
+  }
+]

@@ -1,10 +1,12 @@
-import { Box, IconButton, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
+import { Box, Button, IconButton, Paper, Stack, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 import React, { useState } from 'react'
 import axios from 'axios'
 import config from '../../config.json'
 import ContentCopyTwoToneIcon from '@mui/icons-material/ContentCopyTwoTone'
 import { useLocation, useNavigate, useParams } from 'react-router-dom'
 import CreateProject from './CreateProject'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack'
+import Save from './Save'
 
 
 function ZonalProject() {
@@ -97,6 +99,18 @@ function ZonalProject() {
                 group_id={group_id}
                 set_projects={set_projects}
             />
+            <Stack
+                direction='row'
+                justifyContent='space-between'
+                alignItems='baseline'
+                spacing={2}>
+                <Button
+                    startIcon={<ArrowBackIcon />}
+                    onClick={() => navigate(-1)}>
+                    Back
+                </Button>
+                <Save group={group} />
+            </Stack>
         </Box>
     )
 }
