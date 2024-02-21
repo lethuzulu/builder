@@ -16,7 +16,11 @@ import ZonalMixProject from './components/Zonal-Mix/ZonalMixProject'
 import BuildingTypeProject from './components/Building-Types/BuildingTypeProject'
 import { ThemeProvider, createTheme } from '@mui/material'
 import { grey } from '@mui/material/colors'
+import setHeaders from './utils/setHeaders'
 
+if (localStorage.token) {
+    setHeaders(localStorage.token)
+}
 const theme = createTheme({
     palette: {
         primary: {

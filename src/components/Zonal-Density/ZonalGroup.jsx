@@ -25,14 +25,14 @@ export default function ZonalGroup() {
         name: 'Zonal', description: 'Zonal Desc.', geographic_extent: 'Gauteng', group_id: 0
     }])
 
-    // useEffect(() => {
-    //     axios
-    //         .get(`${config.api_base_url}/builder/zonal_tool/zonal_group/all`)
-    //         .then((response) => {
-    //             set_groups(response.data)
-    //         })
-    //         .catch((error) => console.log(error))
-    // }, [])
+    useEffect(() => {
+        axios
+            .get(`${config.api_base_url}/builder/zonal_tool/zonal_group/all`)
+            .then((response) => {
+                set_groups(response.data)
+            })
+            .catch((error) => console.log(error))
+    }, [])
 
     const duplicate = async (group) => {
         try {

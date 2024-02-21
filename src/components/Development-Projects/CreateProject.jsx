@@ -178,7 +178,7 @@ export default function CreateProject({ group_id, set_projects }) {
                     </DialogContentText>
 
                     <form
-                        id='proj-form'
+                        id='development-project-form'
                         onSubmit={handleSubmit(onSubmit)}>
                         <TextField
                             margin='dense'
@@ -198,7 +198,7 @@ export default function CreateProject({ group_id, set_projects }) {
 
                         <TextField
                             label={produce_label(
-                                'Project Area',
+                                'Project Area (in meters)',
                                 project_area_html
                             )}
                             variant='standard'
@@ -219,7 +219,7 @@ export default function CreateProject({ group_id, set_projects }) {
                             fullWidth
                             margin='dense'
                             label={produce_label(
-                                'Buildings Count',
+                                'Buildings Count (number of buildings)',
                                 buildings_count_html
                             )}
                             InputProps={{ inputProps: { min: 0 } }}
@@ -249,9 +249,7 @@ export default function CreateProject({ group_id, set_projects }) {
                                 })
                             }}
                             defaultValue={''}
-                            inputProps={register('building_type', {
-                                required: '*Required',
-                            })}
+                            {...register('building_type', {required: '*Required'})}
                             error={errors.building_type ? true : false}
                             helperText={errors.building_type?.message}>
                             {buildingTypes.map((building_type) => {
@@ -311,7 +309,7 @@ export default function CreateProject({ group_id, set_projects }) {
                             type={'number'}
                             fullWidth
                             label={produce_label(
-                                'Duration(in months)',
+                                'Duration (in months)',
                                 duration_html
                             )}
                             margin='dense'
@@ -499,7 +497,7 @@ export default function CreateProject({ group_id, set_projects }) {
                     <Button onClick={handleClose}>Cancel</Button>
                     <Button
                         type='submit'
-                        form='proj-form'>
+                        form='development-project-form'>
                         Submit
                     </Button>
                 </DialogActions>

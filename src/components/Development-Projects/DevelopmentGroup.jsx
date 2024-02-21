@@ -1,5 +1,5 @@
 import { IconButton, Paper, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
-import React, { Fragment, useState } from 'react'
+import React, { Fragment, useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import MapIcon from '@mui/icons-material/Map'
 import axios from 'axios'
@@ -14,7 +14,18 @@ import CreateDevelopment from './CreateDevelopment'
 
 function DevelopmentGroup() {
 
-    const [groups, set_groups] = useState([{name:'Deve', description:'Dev Desc.', geographic_extent:'Gauteng'}])
+    const [groups, set_groups] = useState([])
+
+    useEffect(() => {
+        axios
+            .get(
+                `${config.api_base_url}/builder/development_tool/development_group/all`
+            )
+            .then((response) => {
+                set_groups(response.data)
+            })
+            .catch((error) => console.log(error))
+    }, [])
 
 
     const duplicate = async (group) => {
