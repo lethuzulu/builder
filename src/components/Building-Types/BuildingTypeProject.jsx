@@ -1,8 +1,9 @@
-import React, { useState } from 'react'
+import React, { Fragment, useState } from 'react'
 import { AgGridReact } from 'ag-grid-react'
 import 'ag-grid-community/styles/ag-grid.css' // Core CSS
 import 'ag-grid-community/styles/ag-theme-quartz.css' // Theme
-
+import { Button, Stack } from '@mui/material'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 
 export default function BuildingTypeProject() {
     // eslint-disable-next-line no-unused-vars
@@ -569,7 +570,7 @@ export default function BuildingTypeProject() {
             land_sqm_per_unit: '0',
         },
     ])
-// eslint-disable-next-line no-unused-vars
+    // eslint-disable-next-line no-unused-vars
     const [colDefs, setColDefs] = useState([
         { field: 'id', pinned: 'left' },
         { field: 'building_type_name', pinned: 'left' },
@@ -606,20 +607,34 @@ export default function BuildingTypeProject() {
         console.log('onCellValueChanged: ', event.data)
     }
     return (
-        <div
-            className='ag-theme-quartz'
-            style={{
-                height: '60vh',
-            }}>
-            <AgGridReact
-                rowData={rowData}
-                columnDefs={colDefs}
-                getRowId={getRowId}
-                onCellValueChanged={onCellValueChanged}
-                editType='fullRow'
-            />
-        </div>
+        <Fragment>
+            <div
+                className='ag-theme-quartz'
+                style={{
+                    height: '60vh',
+                }}>
+                <AgGridReact
+                    rowData={rowData}
+                    columnDefs={colDefs}
+                    getRowId={getRowId}
+                    onCellValueChanged={onCellValueChanged}
+                    editType='fullRow'
+                />
+            </div>
+            <Stack
+                direction='row'
+                justifyContent='space-between'
+                alignItems='baseline'
+                spacing={2}>
+                <Button
+                    startIcon={<ArrowBackIcon />}
+                    // onClick={() => navigate(-1)}
+                >
+                    Back
+                </Button>
+
+                {/* <Save group={group} /> */}
+            </Stack>
+        </Fragment>
     )
 }
-
-

@@ -18,6 +18,8 @@ import AddCircleIcon from '@mui/icons-material/AddCircle'
 import MapIcon from '@mui/icons-material/Map'
 // import DeleteBuilding from './DeleteBuilding'
 import ContentCopyTwoToneIcon from '@mui/icons-material/ContentCopyTwoTone'
+import CreateBuildingTypesGroup from './CreateBuildingTypesGroup'
+import DeleteBuilding from './DeleteBuilding'
 // import EditIcon from '@mui/icons-material/Edit'
 
 
@@ -111,10 +113,10 @@ export default function BuildingTypeGroup() {
                                               </IconButton>
                                           </TableCell>
                                           <TableCell align='center'>
-                                              {/* <DeleteBuilding
+                                              <DeleteBuilding
                                                   set_groups={set_groups}
                                                   group={group}
-                                              /> */}
+                                              />
                                           </TableCell>
                                           <TableCell align='center'>
                                               <IconButton
@@ -131,7 +133,7 @@ export default function BuildingTypeGroup() {
                     </TableBody>
                 </Table>
             </TableContainer>
-            {/* <CreateBuildingTypesGroup set_groups={set_groups} /> */}
+            <CreateBuildingTypesGroup set_groups={set_groups} /> 
         </Fragment>
     )
 }
