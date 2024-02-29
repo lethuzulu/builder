@@ -21,6 +21,7 @@ import MapIcon from '@mui/icons-material/Map'
 // import CreateZonalMixGroup from './CreateZonalMixGroup'
 import Delete from '@mui/icons-material/Delete'
 import ContentCopyTwoToneIcon from '@mui/icons-material/ContentCopyTwoTone';
+import CreateZonalMixGroup from './CreateZonalMixGroup'
 
 export default function ZonalMixGroup() {
     // eslint-disable-next-line
@@ -114,7 +115,7 @@ export default function ZonalMixGroup() {
                     </TableBody>
                 </Table>
             </TableContainer>
-            {/* <CreateZonalMixGroup set_groups={set_groups} /> */}
+            <CreateZonalMixGroup set_groups={set_groups} />
         </Fragment>
     )
 }
